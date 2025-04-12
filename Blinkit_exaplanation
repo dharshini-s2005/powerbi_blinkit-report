@@ -1,0 +1,56 @@
+his Power BI project is a visual analysis of sales data for Blinkit, an online grocery delivery platform. The dashboard was designed to help
+understand sales patterns, product performance, and outlet efficiency using interactive visuals and KPIs.
+Project Objectives
+Analyze overall sales and product distribution.
+
+Compare performance across different outlet types and locations.
+
+Identify top-selling item categories.
+
+Provide actionable insights through interactive filters and visual storytelling.
+
+🔍 Key Features
+KPI Cards: Total Sales, Item Count, Average Rating, Average Sales per Item.
+
+Slicers: Filter data based on Outlet Type, Outlet Size, and Item Type.
+
+Visuals:
+
+Bar Chart: Sales by Item Type
+
+Donut Chart: Outlet Size Distribution
+
+Line Chart: Year-wise Sales Trend
+
+Stacked Column: Fat Content by Sales
+
+Map or Table (optional): Outlet Location Performance
+
+Insights Gained
+Low Fat products contribute to most sales.
+
+Tier 1 outlets and Supermarket Type1 are top performers.
+
+Sales peaked in 2016 before slightly declining.
+
+Most sold items include Snack Foods, Household Items, and Fruits/Vegetables.
+
+Outlet Size influences the total sales significantly.
+
+Tools & Techniques Used
+
+Power BI Desktop
+Data Cleaning and Transformation
+Data Modeling
+DAX Measures (for KPIs like Avg Sales, Avg Rating)
+Interactive Filtering and Visual Formatting
+
+Files Included
+.pbix (Power BI file)
+
+Dashboard Screenshots
+
+README for project description
+
+
+
